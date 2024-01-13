@@ -10,3 +10,10 @@ let strength= 15;
 
 console.log(`Medium Strength:  ${strength>10 && strength<20}`);  //using ${} method with (``)
 
+//Example 3
+
+let weapons=  3;
+let armour =  8;
+
+console.log(`Prepared For Encounter:  ${weapons>2 && armour>5}`);
+
