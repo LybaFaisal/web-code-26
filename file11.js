@@ -117,3 +117,15 @@ else if(LightColor==="green")
 else{
     console.log("Invalid Light Color");
 }
+
+//Example 11
+
+let Num= 15;
+
+if(Num>=5 && Num<=20)
+{
+    console.log("Number is in range");
+}
+else{
+    console.log("Number is not in range");
+}
