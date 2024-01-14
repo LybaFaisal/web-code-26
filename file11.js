@@ -85,3 +85,15 @@ if ( price>100)
 else{
     console.log("Sorry, You are not eligible for this discount.");
 }
+
+//example 10
+
+let password= "Lf345";
+
+if(password.length>=8)
+{
+    console.log("Your password is Valid");
+}
+else{
+    console.log("Password should be at least 8 characters long!");
+}
