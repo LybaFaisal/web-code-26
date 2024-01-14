@@ -62,3 +62,14 @@ else{
     console.log("Odd Number!");
 }
 
+//Example 8
+
+let WeekDay= "Thursday";
+
+if(WeekDay==="Saturday" || WeekDay=== "Sunday")
+{
+    console.log("This is weekend");
+}
+else{
+    console.log("A week Day");
+}
