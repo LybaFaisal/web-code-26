@@ -49,3 +49,16 @@ if(num1>num2)
 else{
     console.log("Number 2 is greater");
 }
+
+//Example 7
+
+let Number= 7;
+
+if(Number%2==0)
+{
+    console.log("Even Number!");
+}
+else{
+    console.log("Odd Number!");
+}
+
