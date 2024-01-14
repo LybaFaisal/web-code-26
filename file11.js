@@ -36,3 +36,16 @@ if(temperature>=30)
 else{
     console.log("Yes This is the right temperature");
 }
+
+//Example 6
+
+let num1= 7;
+let num2= 5;
+
+if(num1>num2)
+{
+    console.log("Number 1 is greater");
+}
+else{
+    console.log("Number 2 is greater");
+}
