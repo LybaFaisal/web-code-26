@@ -129,3 +129,12 @@ if(Num>=5 && Num<=20)
 else{
     console.log("Number is not in range");
 }
+
+//Example 12
+
+let start= 1;
+
+for(let i=1 ; i<=10 ; i++)
+{
+    console.log(`${i}`);
+}
