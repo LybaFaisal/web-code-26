@@ -97,3 +97,23 @@ if(password.length>=8)
 else{
     console.log("Password should be at least 8 characters long!");
 }
+
+//Example 10
+
+let LightColor= "red";
+
+if(LightColor==="red")
+{
+    console.log("Stop!");
+}
+else if(LightColor==="yellow")
+{
+    console.log("Slow Down");
+}
+else if(LightColor==="green")
+{
+    console.log("Go!");
+}
+else{
+    console.log("Invalid Light Color");
+}
