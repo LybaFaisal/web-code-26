@@ -73,3 +73,15 @@ if(WeekDay==="Saturday" || WeekDay=== "Sunday")
 else{
     console.log("A week Day");
 }
+
+//Example 9
+
+let price= 120;
+
+if ( price>100)
+{
+    console.log("You are eligible for Discount")
+}
+else{
+    console.log("Sorry, You are not eligible for this discount.");
+}
