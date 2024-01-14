@@ -25,3 +25,14 @@ CombatSkill= 15;
 
 console.log(`Can Upgrade Skills:  ${MagicSkill>10 || CombatSkill>10}`);
 
+//Example 5
+
+let temperature= 25;
+
+if(temperature>=30)
+{
+    console.log("This is not the right temperature");
+}
+else{
+    console.log("Yes This is the right temperature");
+}
